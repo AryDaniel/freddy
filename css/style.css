@@ -6,6 +6,7 @@ body{
     font-size: 16px;
     margin: 0;
     padding: 0;
+    color: white;
 }
 
 #container{
@@ -46,8 +47,11 @@ body{
 #container h1{
     font-size: 20px;
 }
+
 #post
 {
-    background: white;
+    background: #dcfffd;
+    
+    color: black;
     padding: 1em;
 }
